@@ -5,7 +5,7 @@ body{
 
 
 .content h1{
-    font-size : 3em;
+    font-size : 2.2em;
     font-family: 'Lato', sans-serif;
     padding-bottom: 2%;
 }
@@ -17,8 +17,8 @@ li{
 }
 
 .content{
-    padding: 5%;
-    line-height: 3em;
+    padding: 3%;
+    line-height: 2em;
     text-align: center;
 }
 
@@ -28,7 +28,7 @@ li{
 }
 
 .content p {
-    font-size: 1.5em;
+    font-size: 1em;
     color: rgb(200, 200, 200);
     font-family: 'Raleway', sans-serif;
 }
@@ -44,6 +44,13 @@ li{
 .content a:link{
     color: white;
 }
+a :hover{
+    color:rgb(57, 57, 57);
+}
+.content a :hover{
+    color:rgb(57, 57, 57);
+}
+
 
 .username {
     font-weight: bold;
