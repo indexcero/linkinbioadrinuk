@@ -5,15 +5,15 @@ body{
 
 
 .content h1{
-    font-size : 2.2em;
+    font-size : 2em;
     font-family: 'Lato', sans-serif;
-    padding-bottom: 2%;
+    padding-bottom: 5%;
 }
 
 li{
-    font-size : 1em;
+    font-size : 1.5em;
     font-family: 'Lato', sans-serif;
-    padding-bottom: 2%;
+    padding-bottom: 5%;
 }
 
 .content{
@@ -28,14 +28,14 @@ li{
 }
 
 .content p {
-    font-size: 1em;
+    font-size: 2em;
     color: rgb(200, 200, 200);
     font-family: 'Raleway', sans-serif;
 }
 
 
 .content a {
-    font-size: 1.6em;
+    font-size: 2em;
     color:white;
     text-decoration: none;
     font-family: 'Lato', sans-serif;
@@ -79,6 +79,6 @@ a :hover{
 
 .profile_pic {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
